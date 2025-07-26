@@ -66,16 +66,6 @@
 
 ---
 
-## 🚀 Hackathon Demo
-
-### Live Demo
-🌐 **[TestGenius Live Demo](https://lucky-lokum-bd71d6.netlify.app)**
-
-### Demo Credentials
-```
-Email: demo@testgenius.com
-Password: demo123
-```
 
 ### Quick Demo Flow
 1. **Sign up/Login** with Firebase authentication
@@ -138,48 +128,6 @@ This runs both frontend (http://localhost:5173) and backend (http://localhost:30
 ```bash
 npm run build:production
 ```
-
----
-
-## 🎯 Hackathon Judging Criteria
-
-### ✅ **Innovation & Creativity**
-- **AI-First Approach** - Leveraging Google Gemini for intelligent test generation
-- **Novel Problem Solving** - Automating the tedious process of test writing
-- **Creative UI/UX** - Intuitive interface with real-time feedback
-
-### ✅ **Technical Implementation**
-- **Modern Architecture** - React 18, TypeScript, Node.js, Firebase
-- **Production Quality** - Error handling, authentication, deployment
-- **Performance** - Optimized builds, efficient API calls, responsive UI
-
-### ✅ **Practical Value**
-- **Real-world Problem** - Addresses actual developer pain points
-- **Immediate Utility** - Ready to use for any website testing
-- **Scalable Solution** - Enterprise-ready architecture
-
-### ✅ **Code Quality**
-- **TypeScript** - Full type safety across the application
-- **Clean Architecture** - Modular components and clear separation
-- **Documentation** - Comprehensive README and inline comments
-
----
-
-## 📊 Hackathon Metrics
-
-### Development Stats
-- **Lines of Code**: ~3,500+ (TypeScript/JavaScript)
-- **Components**: 8 React components
-- **API Endpoints**: 6 REST endpoints
-- **Test Coverage**: Manual testing across all features
-- **Build Time**: <30 seconds optimized build
-
-### Performance Metrics
-- **Test Generation**: <10 seconds average
-- **Test Execution**: 15-45 seconds depending on complexity
-- **Page Load**: <2 seconds first load
-- **Bundle Size**: <500KB gzipped
-
 ### Feature Completeness
 - ✅ User Authentication (Firebase)
 - ✅ AI Test Generation (Google Gemini)
@@ -192,22 +140,4 @@ npm run build:production
 
 ---
 
-## 🌟 Future Roadmap
-
-### Phase 1: Enhanced AI
-- **GPT-4 Integration** for even smarter test generation
-- **Custom Test Patterns** based on user preferences
-- **Automated Test Maintenance** when websites change
-
-### Phase 2: Enterprise Features
-- **Team Collaboration** with shared workspaces
-- **CI/CD Integration** with GitHub Actions, Jenkins
-- **Advanced Analytics** with test trend analysis
-
-### Phase 3: Platform Expansion
-- **Mobile App Testing** with Appium integration
-- **API Testing** with automated endpoint discovery
-- **Performance Testing** with load testing capabilities
-
----
 
